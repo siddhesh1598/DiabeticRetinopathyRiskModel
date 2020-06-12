@@ -33,6 +33,7 @@ The code implements the Risk Model from scratch. The raw data is normalized and 
 The **C-Index** of th model is **0.8281** <br>
 
 ![alt text](https://github.com/siddhesh1598/DiabeticRetinopathyRiskModel/blob/master/coefficients.png?raw=true)
+
 Coefficients of the features used to make the predictions.
 
 
